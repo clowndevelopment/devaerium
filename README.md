@@ -14,3 +14,5 @@
 ---
 
 ### :woman_technologist: About Me :
+
+I'm a beginning Java developer with about 1 year of experience. I recently got involved with client development for Minecraft.
