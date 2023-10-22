@@ -1,4 +1,4 @@
-<h1 align="center">JustAClown</h1>
+<h1 align="center">Aerium Development</h1>
 
 <div id="header" align="center">
   <img src="roundedlogo.png" width="100"/>
